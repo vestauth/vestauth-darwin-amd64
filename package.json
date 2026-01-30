@@ -1,6 +1,6 @@
 {
   "name": "@vestauth/vestauth-darwin-amd64",
-  "version": "0.4.3",
+  "version": "0.4.4",
   "description": "vestauth-darwin-amd64 binary",
   "repository": {
     "type": "git",
